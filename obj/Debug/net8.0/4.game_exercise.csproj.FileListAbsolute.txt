@@ -1,0 +1,56 @@
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.deps.json
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.runtimeconfig.json
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.pdb
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.AssemblyInfoInputs.cache
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.AssemblyInfo.cs
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.csproj.CoreCompileInputs.cache
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/refint/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.pdb
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.genruntimeconfig.cache
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/ref/4.game_exercise.dll
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.AssemblyInfoInputs.cache
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.AssemblyInfo.cs
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.csproj.CoreCompileInputs.cache
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.dll
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/refint/4.game_exercise.dll
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.pdb
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.exe
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.deps.json
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.runtimeconfig.json
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.dll
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.pdb
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.genruntimeconfig.cache
+C:/Users/HP/Downloads/tercer semestre/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/ref/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.deps.json
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.runtimeconfig.json
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/bin/Debug/net8.0/4.game_exercise.pdb
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.GeneratedMSBuildEditorConfig.editorconfig
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.AssemblyInfoInputs.cache
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.AssemblyInfo.cs
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.csproj.CoreCompileInputs.cache
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/refint/4.game_exercise.dll
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.pdb
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/4.game_exercise.genruntimeconfig.cache
+/Users/camilacatorceno/Downloads/tercer semestre/6. progra II/S6 (practica2)/D11 (Practica2)/4.game_exercise/obj/Debug/net8.0/ref/4.game_exercise.dll
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\bin\Debug\net8.0\4.game_exercise.exe
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\bin\Debug\net8.0\4.game_exercise.deps.json
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\bin\Debug\net8.0\4.game_exercise.runtimeconfig.json
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\bin\Debug\net8.0\4.game_exercise.dll
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\bin\Debug\net8.0\4.game_exercise.pdb
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.AssemblyInfo.cs
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.dll
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\refint\4.game_exercise.dll
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.pdb
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\4.game_exercise.genruntimeconfig.cache
+C:\Users\HP\Desktop\tercer semestre\6. progra II\S6 (practica2)\D11 (Practica2)\4.game_exercise\obj\Debug\net8.0\ref\4.game_exercise.dll
